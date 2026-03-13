@@ -117,6 +117,28 @@ Built a complete e-commerce database from scratch and extracted actionable busin
 </td>
 <td width="50%" valign="top">
 
+### 🍕 NLP Sentiment Analysis
+| Python | NLP | Machine Learning | Deep Learning
+
+Analyzed 1459 real reviews from Zomato, 
+Swiggy & Blinkit using ML & Deep Learning.
+
+**Highlights:**
+- 🔍 Real data from Google Play Store
+- 🤖 7 Models — 5 ML + 2 Deep Learning
+- 🏆 Random Forest — 91.10% Accuracy
+- 🌐 Live Streamlit App Deployed
+- 💡 Actionable Business Insights
+
+Python | NLTK | TensorFlow | Streamlit | VADER
+
+[Live App](https://indian-food-delivery-sentiment-analysis-lug5wqpmv42siqiu2aisxa.streamlit.app/) | [GitHub](https://github.com/DeveshShukla23/Indian-Food-Delivery-Sentiment-Analysis)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔜 More Projects Coming Soon...
 > Always building, always learning!
 
