@@ -139,6 +139,26 @@ Python | NLTK | TensorFlow | Streamlit | VADER
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 KAUTILYA — AI Data Analysis Agent
+| Python | Groq LLaMA3 | Agentic AI | Voice Enabled
+
+AI-powered Data Analysis Agent that autonomously 
+analyzes any CSV/Excel dataset using Groq's LLaMA3.
+
+**Highlights:**
+- 🧠 Groq LLaMA3 — Transformer based Agentic AI
+- 🎤 Voice Input & Output — Hindi & English
+- 📊 Auto Visualizations — 4 chart types
+- 🔐 Secure API key management (.env)
+- 💡 Autonomous business insights generation
+
+Python | Groq | Streamlit | SpeechRecognition | gTTS
+
+[GitHub](https://github.com/DeveshShukla23/KAUTILYA-AI-Data-Analysis-Agent)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔜 More Projects Coming Soon...
 > Always building, always learning!
 
