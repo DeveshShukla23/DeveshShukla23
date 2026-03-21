@@ -154,9 +154,31 @@ analyzes any CSV/Excel dataset using Groq's LLaMA3.
 
 Python | Groq | Streamlit | SpeechRecognition | gTTS
 
-[GitHub](https://github.com/DeveshShukla23/KAUTILYA-AI-Data-Analysis-Agent)
+[🚀 Live App](https://kautilya-ai-data-analysis-agent-9ykvqyhu94wxhff5eshcck.streamlit.app/) | [GitHub](https://github.com/DeveshShukla23/KAUTILYA-AI-Data-Analysis-Agent)
 
 </td>
+<td width="50%" valign="top">
+
+### 🏆 CHANAKYA — AI Commerce Intelligence Platform
+> **Python** | **MySQL** | **Power BI** | **ML** | **Deep Learning** | **Agentic AI**
+
+End-to-end **12-layer** Data Science Capstone on 100% original Indian e-commerce data.
+
+**Highlights:**
+- 🗄️ MySQL Star Schema — 14,829 records
+- 📊 EDA + RFM Segmentation — 9 customer segments
+- 🚨 Anomaly Detection — 34 frauds caught
+- 🤖 ML + LSTM + Churn Prediction
+- 📊 Power BI Dark Dashboard — 6 KPIs + DAX
+- ⚡ ARTHA Agentic AI — LLaMA 3.3 70B
+
+`Python` `MySQL` `Power BI` `TensorFlow` `Groq` `Streamlit`
+
+[🚀 Live App](https://chanakya-ai.streamlit.app) | [GitHub](https://github.com/DeveshShukla23/CHANAKYA)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔜 More Projects Coming Soon...
