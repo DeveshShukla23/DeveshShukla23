@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:6366F1&height=200&section=header&text=Devesh%20Shukla&fontSize=60&fontColor=6366F1&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Insight%20Storyteller&descAlignY=58&descSize=16&descColor=a0aec0&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:6366F1&height=200&section=header&text=Devesh%20Shukla&fontSize=60&fontColor=6366F1&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Insight%20Storyteller&descAlignY=58&descSize=16&descColor=a0aec0&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Real+Insights+%F0%9F%93%8A;Data+Analyst+%7C+Data+Scientist+%7C+ML+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+ML+%7C+Agentic+AI;Built+CHANAKYA+%E2%80%94+12+Layer+AI+Platform+%F0%9F%9A%80;Open+to+Data+Analyst+%7C+Data+Scientist+Roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Real+Insights+%F0%9F%93%8A;Data+Analyst+%7C+Data+Scientist+%7C+Insight+Storyteller;Python+%7C+SQL+%7C+Power+BI+%7C+ML+%7C+Agentic+AI;Built+CHANAKYA+%E2%80%94+12+Layer+AI+Platform+%F0%9F%9A%80;Open+to+Data+Analyst+%7C+Data+Scientist+Roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <br>
 
@@ -21,8 +21,8 @@ devesh = {
     "location"      : "Jhansi, Uttar Pradesh, India 📍",
     "education"     : "BA History & Sociology — Bundelkhand University (2019)",
     "experience"    : "Data Analyst Intern @ Access Million (6 Months) ✅",
-    "certifications": "12 Certifications in Data Science, Analytics & AI 🏆",
-    "roles"         : ["Data Analyst", "Data Scientist", "ML Engineer"],
+    "certifications": "13 Certifications in Data Science, Analytics & AI 🏆",
+    "roles"         : ["Data Analyst", "Data Scientist"],
     "skills"        : ["Python", "SQL", "Power BI", "Tableau", "Excel",
                        "ML", "Deep Learning", "Agentic AI", "NLP"],
     "passion"       : "Transforming complex data into clear, actionable business insights",
@@ -268,11 +268,12 @@ Currently working on:
 </div>
 
 <details>
-<summary><b>📋 View All 12 Certifications (Click to Expand)</b></summary>
+<summary><b>📋 View All 13 Certifications (Click to Expand)</b></summary>
 <br>
 
 | # | 🏆 Certification | 🏫 Institution | 📅 Year | 🏷️ Category |
 |:---:|:---|:---|:---:|:---|
+| 0 | Data Analytics Job Simulation | Quantium x Forage | Mar 2026 | 📊 Analytics |
 | 1 | Masters in Data Analytics | TopMentor | Feb 2026 | 📊 Analytics |
 | 2 | Masters in Data Science | TopMentor | Feb 2026 | 🔬 Data Science |
 | 3 | Masters in Business Analytics | TopMentor | Feb 2026 | 💼 Business |
@@ -309,7 +310,7 @@ Currently working on:
 
 ### 🟢 Currently Open to Data Analyst | Data Scientist Opportunities!
 
-*6 months internship experience | 12 certifications | 6 live projects | CHANAKYA — 12-layer AI platform*
+*6 months internship | 13 certifications | 7 projects | 3 live apps | CHANAKYA — 12-layer AI platform*
 
 *If you're hiring or know someone who is — let's talk!*
 
