@@ -21,7 +21,7 @@ devesh = {
     "location"      : "Jhansi, Uttar Pradesh, India 📍",
     "education"     : "BA History & Sociology — Bundelkhand University (2019)",
     "experience"    : "Data Analyst Intern @ Access Million (6 Months) ✅",
-    "certifications": "13 Certifications in Data Science, Analytics & AI 🏆",
+    "certifications": "14 Certifications in Data Science, Analytics & AI 🏆",
     "roles"         : ["Data Analyst", "Data Scientist"],
     "skills"        : ["Python", "SQL", "Power BI", "Tableau", "Excel",
                        "ML", "Deep Learning", "Agentic AI", "NLP"],
@@ -121,6 +121,27 @@ AI-powered Data Analysis Agent that autonomously analyzes any CSV/Excel dataset.
 </td>
 <td width="50%" valign="top">
 
+### 🔍 BCG X — PowerCo Churn Prediction
+> **Python | Scikit-Learn | Random Forest | Forage**
+
+Real-world Data Science simulation for BCG X via Forage — challenged the price sensitivity hypothesis using ML.
+
+**Highlights:**
+- 👥 14,606 customers | 9.7% churn rate analyzed
+- 📊 EDA + Feature Engineering pipeline
+- 🤖 Random Forest — ROC-AUC: 0.71
+- 💡 Proved price is NOT the primary churn driver
+- ✅ Certificate issued — BCG X x Forage
+
+`Python` `Pandas` `Scikit-Learn` `Matplotlib` `Seaborn`
+
+[GitHub](https://github.com/DeveshShukla23/BCG-Data-Science-Job-Simulation)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛒 E-Commerce SQL Analysis
 > **MySQL | Data Analysis | Business Queries**
 
@@ -138,8 +159,6 @@ Built a complete e-commerce database from scratch and extracted actionable busin
 [GitHub](https://github.com/DeveshShukla23/Ecommerce-SQL-Analysis)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💰 Dynamic Pricing Model
@@ -159,6 +178,8 @@ Compared 3 ML models for dynamic pricing using a self-created synthetic dataset.
 [GitHub](https://github.com/DeveshShukla23/Dynamic-Pricing-Model)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📦 Blinkit Sales Dashboard
@@ -178,8 +199,6 @@ End-to-end interactive sales dashboard analyzing **$1.2M+ in sales** across 10 o
 [GitHub](https://github.com/DeveshShukla23/Blinkit-Sales-Dashboard)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 Quantium Data Analytics Simulation
@@ -191,13 +210,15 @@ Real-world retail analytics simulation for Quantium via Forage.
 - 🛍️ 245K+ transactions | 71K customers | $1.8M revenue
 - 📊 Customer segmentation & uplift testing
 - 🔬 Pearson Correlation for control store matching
-- ✅ Certificate issued — Credential: 9SZbzY89Z5gHe2s4e
+- ✅ Certificate issued — Quantium x Forage
 
 `Python` `Pandas` `SciPy` `Matplotlib` `Seaborn`
 
 [GitHub](https://github.com/DeveshShukla23/Quantium-Data-Analytics-Simulation)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔜 More Projects Coming Soon...
@@ -259,33 +280,34 @@ Currently working on:
 
 | 🥇 | Certification | Institution | Year |
 |:---:|:---|:---|:---:|
+| 🏅 | Data Science Job Simulation | BCG X x Forage | Mar 2026 |
 | 🏅 | Data Analytics Job Simulation | Quantium x Forage | Mar 2026 |
 | 🏅 | Masters in Data Analytics | TopMentor | Feb 2026 |
 | 🏅 | Masters in Data Science | TopMentor | Feb 2026 |
 | 🏅 | Masters in Business Analytics | TopMentor | Feb 2026 |
-| 🏅 | Machine Learning Specialist | TopMentor | Feb 2026 |
 
 </div>
 
 <details>
-<summary><b>📋 View All 13 Certifications (Click to Expand)</b></summary>
+<summary><b>📋 View All 14 Certifications (Click to Expand)</b></summary>
 <br>
 
 | # | 🏆 Certification | 🏫 Institution | 📅 Year | 🏷️ Category |
 |:---:|:---|:---|:---:|:---|
-| 0 | Data Analytics Job Simulation | Quantium x Forage | Mar 2026 | 📊 Analytics |
-| 1 | Masters in Data Analytics | TopMentor | Feb 2026 | 📊 Analytics |
-| 2 | Masters in Data Science | TopMentor | Feb 2026 | 🔬 Data Science |
-| 3 | Masters in Business Analytics | TopMentor | Feb 2026 | 💼 Business |
-| 4 | Machine Learning Specialist | TopMentor | Feb 2026 | 🤖 ML / AI |
-| 5 | Generative AI — Prompt Engineer | TopMentor | Feb 2026 | 🧠 Gen AI |
-| 6 | Generative AI — ChatGPT Specialist | TopMentor | Feb 2026 | 🧠 Gen AI |
-| 7 | Power BI Specialist | TopMentor | Feb 2026 | 📈 Visualization |
-| 8 | Tableau Specialist | TopMentor | Feb 2026 | 📈 Visualization |
-| 9 | Python Specialist | TopMentor | Feb 2026 | 🐍 Programming |
-| 10 | SQL Specialist | TopMentor | Feb 2026 | 🗄️ Database |
-| 11 | R Programming Specialist | TopMentor | Feb 2026 | 📉 Programming |
-| 12 | Advanced Excel Specialist | TopMentor | Feb 2026 | 📋 Analytics |
+| 1 | Data Science Job Simulation | BCG X x Forage | Mar 2026 | 🔬 Data Science |
+| 2 | Data Analytics Job Simulation | Quantium x Forage | Mar 2026 | 📊 Analytics |
+| 3 | Masters in Data Analytics | TopMentor | Feb 2026 | 📊 Analytics |
+| 4 | Masters in Data Science | TopMentor | Feb 2026 | 🔬 Data Science |
+| 5 | Masters in Business Analytics | TopMentor | Feb 2026 | 💼 Business |
+| 6 | Machine Learning Specialist | TopMentor | Feb 2026 | 🤖 ML / AI |
+| 7 | Generative AI — Prompt Engineer | TopMentor | Feb 2026 | 🧠 Gen AI |
+| 8 | Generative AI — ChatGPT Specialist | TopMentor | Feb 2026 | 🧠 Gen AI |
+| 9 | Power BI Specialist | TopMentor | Feb 2026 | 📈 Visualization |
+| 10 | Tableau Specialist | TopMentor | Feb 2026 | 📈 Visualization |
+| 11 | Python Specialist | TopMentor | Feb 2026 | 🐍 Programming |
+| 12 | SQL Specialist | TopMentor | Feb 2026 | 🗄️ Database |
+| 13 | R Programming Specialist | TopMentor | Feb 2026 | 📉 Programming |
+| 14 | Advanced Excel Specialist | TopMentor | Feb 2026 | 📋 Analytics |
 
 </details>
 
@@ -310,7 +332,7 @@ Currently working on:
 
 ### 🟢 Currently Open to Data Analyst | Data Scientist Opportunities!
 
-*6 months internship | 13 certifications | 7 projects | 3 live apps | CHANAKYA — 12-layer AI platform*
+*6 months internship | 14 certifications | 8 projects | 3 live apps | CHANAKYA — 12-layer AI platform*
 
 *If you're hiring or know someone who is — let's talk!*
 
