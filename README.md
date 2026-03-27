@@ -342,7 +342,7 @@ Currently working on:
 [![GitHub](https://img.shields.io/badge/GitHub-DeveshShukla23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveshShukla23)
 [![Email](https://img.shields.io/badge/Email-Reach_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukladevesh40@gmail.com)
 [![CHANAKYA](https://img.shields.io/badge/🚀%20CHANAKYA-Live%20App-6366F1?style=for-the-badge)](https://chanakya-ai.streamlit.app)
-
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-8b0000?style=for-the-badge)](https://deveshshukla23.github.io)
 <br>
 
 ⭐ **If you find my work useful, consider giving my repos a star!** ⭐
