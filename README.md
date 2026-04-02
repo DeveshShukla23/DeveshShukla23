@@ -221,6 +221,25 @@ Real-world retail analytics simulation for Quantium via Forage.
 <tr>
 <td width="50%" valign="top">
 
+### 🚗 BMW Global Sales Intelligence
+> **Excel | MySQL | Python | Power BI | K-Means | Forecasting**
+
+End-to-end **4-phase** analytics project on 4,569 rows of real-world BMW global sales data — from corrupted Excel to boardroom-ready dashboard.
+
+**Highlights:**
+- 📋 Excel — Audited 29 columns, flagged 800+ bad records before cleaning
+- 🗄️ MySQL — 8 business queries, CTEs + Window Functions
+- 🐍 Python — 13 BMW M5 Black visuals, K-Means (K=4 segments), 2025 forecast (€193.5M)
+- 📊 Power BI — 4-page BMW M5 Black dashboard, 13 DAX measures
+- 💡 USA leads revenue (€195.6M) but lowest margin — India biggest untapped market
+
+`Python` `MySQL` `Power BI` `DAX` `Scikit-learn` `Plotly` `Excel`
+
+[GitHub](https://github.com/DeveshShukla23/BMW_Global_Sales_Analysis)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔜 More Projects Coming Soon...
 > Always building, always learning!
 
