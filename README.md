@@ -1,57 +1,72 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:6366F1&height=200&section=header&text=Devesh%20Shukla&fontSize=60&fontColor=6366F1&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Insight%20Storyteller&descAlignY=58&descSize=16&descColor=a0aec0&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0533,100:2d1b69&height=250&section=header&text=DEVESH%20SHUKLA&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=18&descColor=a78bfa&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Real+Insights+%F0%9F%93%8A;Data+Analyst+%7C+Data+Scientist+%7C+Insight+Storyteller;Python+%7C+SQL+%7C+Power+BI+%7C+ML+%7C+Agentic+AI;Built+CHANAKYA+%E2%80%94+12+Layer+AI+Platform+%F0%9F%9A%80;Open+to+Data+Analyst+%7C+Data+Scientist+Roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=🚀+Turning+Raw+Data+into+Real+Business+Decisions;🏛️+Built+CHANAKYA+—+12-Layer+AI+Intelligence+Platform;🚗+BMW+€785M+Revenue+Story+—+4+Tools%2C+4+Phases%2C+Zero+Shortcuts;🤖+Agentic+AI+%7C+LLaMA+3.3+70B+%7C+Groq+API)](https://git.io/typing-svg)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DeveshShukla23&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=DeveshShukla23&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-shukla23)
-[![Live App](https://img.shields.io/badge/🚀%20CHANAKYA-Live%20App-6366F1?style=for-the-badge)](https://chanakya-ai.streamlit.app)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://deveshshukla23.github.io)
+&nbsp;
+[![CHANAKYA](https://img.shields.io/badge/🏛️_CHANAKYA-Live_App-a78bfa?style=for-the-badge)](https://chanakya-ai.streamlit.app)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hire_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukladevesh40@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+## 🧠 Who Am I?
 ```python
 devesh = {
-    "name"          : "Devesh Shukla",
-    "location"      : "Jhansi, Uttar Pradesh, India 📍",
-    "education"     : "BA History & Sociology — Bundelkhand University (2019)",
-    "experience"    : "Data Analyst Intern @ Access Million (6 Months) ✅",
-    "certifications": "14 Certifications in Data Science, Analytics & AI 🏆",
-    "roles"         : ["Data Analyst", "Data Scientist"],
-    "skills"        : ["Python", "SQL", "Power BI", "Tableau", "Excel",
-                       "ML", "Deep Learning", "Agentic AI", "NLP"],
-    "passion"       : "Transforming complex data into clear, actionable business insights",
-    "capstone"      : "CHANAKYA — 12-Layer AI Commerce Intelligence Platform 🏛️",
-    "status"        : "🟢 Actively seeking Data Analyst | Data Scientist opportunities"
+  "name"       : "Devesh Shukla",
+  "based_in"   : "Jhansi, Uttar Pradesh 🇮🇳",
+  "education"  : "BA History & Sociology — BU (2019)",
+  "experience" : "Data Analyst Intern @ Access Million ✅",
+  "duration"   : "6 Months | Aug 2025 – Feb 2026",
+  "certs"      : "14 Certifications in DS, Analytics & AI 🏆",
+  "roles"      : ["Data Analyst", "Data Scientist"],
+  "tools"      : {
+    "languages" : ["Python", "SQL", "R"],
+    "bi"        : ["Power BI", "Tableau", "Excel"],
+    "ml"        : ["Scikit-learn", "TensorFlow", "LSTM"],
+    "ai"        : ["LLaMA 3.3 70B", "Groq API", "Streamlit"],
+    "databases" : ["MySQL", "MySQL Workbench"]
+  },
+  "capstone"   : "CHANAKYA — 12-Layer AI Commerce Platform 🏛️",
+  "philosophy" : "Data is not numbers. It is the story of your business.",
+  "status"     : "🟢 Actively seeking opportunities"
 }
 ```
 
-> 💡 *"Data is not just numbers — it's the story of your business waiting to be told."*
+<br clear="right"/>
 
 ---
 
 ## 💼 Work Experience
 
-<div align="center">
+<table>
+<tr>
+<td>
 
 ### 🏢 Data Analyst Intern — Access Million
-#### Premium Marketing Services | Pune, India
-#### 📅 Aug 10, 2025 – Feb 10, 2026 | ⏱️ 6 Months | 🏬 Marketing Department
+**Premium Marketing Services | Pune, India**
+📅 Aug 2025 – Feb 2026 &nbsp;|&nbsp; ⏱️ 6 Months &nbsp;|&nbsp; 🏬 Marketing Department
 
-</div>
+- 📊 Analyzed marketing data to drive business decision-making
+- 📈 Built data visualizations and reports for the marketing team
+- 🔍 Applied end-to-end analytics in a real professional environment
+- 💡 Delivered actionable insights to support campaign strategies
 
-> Worked as a **Data Analyst Intern** under the Marketing Department at Access Million, a Premium Marketing Services company based in Pune. Contributed to data-driven marketing analysis and reporting during a 6-month tenure.
-
-**Key Contributions:**
-- 📊 Analyzed marketing data to support business decision-making
-- 📈 Created data visualizations and reports for the marketing team
-- 🔍 Applied data analytics skills in a real-world professional environment
-- 💡 Delivered insights to support marketing strategies and campaigns
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,121 +76,118 @@ devesh = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 CHANAKYA — AI Commerce Intelligence Platform
-> **Python | MySQL | Power BI | ML | Deep Learning | Agentic AI**
+### 🏛️ CHANAKYA — AI Commerce Intelligence
+> **Python • MySQL • Power BI • ML • Deep Learning • Agentic AI**
 
-End-to-end **12-layer** Data Science Capstone on 100% original Indian e-commerce data.
+My **flagship capstone** — a 12-layer end-to-end Data Science platform built on 100% original Indian e-commerce data.
 
-**Highlights:**
+**What's inside:**
 - 🗄️ MySQL Star Schema — 14,829 records
-- 📊 EDA + RFM Segmentation — 9 customer segments
+- 📊 EDA + RFM — 9 customer segments
 - 🚨 Anomaly Detection — 34 frauds caught
 - 🤖 ML + LSTM + Churn Prediction
-- 📊 Power BI Dark Dashboard — 6 KPIs + DAX
+- 📊 Power BI Dark Dashboard — DAX
 - ⚡ ARTHA Agentic AI — LLaMA 3.3 70B
 
 `Python` `MySQL` `Power BI` `TensorFlow` `Groq` `Streamlit`
 
-[🚀 Live App](https://chanakya-ai.streamlit.app) | [GitHub](https://github.com/DeveshShukla23/CHANAKYA)
+[🚀 Live App](https://chanakya-ai.streamlit.app) &nbsp;|&nbsp; [📂 GitHub](https://github.com/DeveshShukla23/CHANAKYA)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍕 NLP Sentiment Analysis
-> **Python | NLP | Machine Learning | Deep Learning**
+### 🚗 BMW Global Sales Intelligence
+> **Excel • MySQL • Python • Power BI • K-Means • Forecasting**
 
-Analyzed 1459 real reviews from Zomato, Swiggy & Blinkit using ML & Deep Learning.
+**4 tools. 4 phases. €785.58M revenue story — zero shortcuts.**
 
-**Highlights:**
-- 🔍 Real data from Google Play Store
-- 🤖 7 Models — 5 ML + 2 Deep Learning
-- 🏆 Random Forest — 91.10% Accuracy
-- 🌐 Live Streamlit App Deployed
-- 💡 Actionable Business Insights
+Most analysts get clean data. I started with 4,569 rows of corrupted BMW records.
 
-`Python` `NLTK` `TensorFlow` `Streamlit` `VADER`
+**The pipeline:**
+- 📋 Excel — 29-column audit, 800+ bad records flagged
+- 🗄️ MySQL — 8 business queries, CTEs + Window Functions
+- 🐍 Python — 13 M5 Black visuals, K-Means (K=4), €193.5M forecast
+- 📊 Power BI — 4-page BMW M5 Black dashboard, 13 DAX measures
 
-[🚀 Live App](https://indian-food-delivery-sentiment-analysis-lug5wqpmv42siqiu2aisxa.streamlit.app/) | [GitHub](https://github.com/DeveshShukla23/Indian-Food-Delivery-Sentiment-Analysis)
+`Python` `MySQL` `Power BI` `DAX` `Scikit-learn` `Plotly` `Excel`
+
+[📂 GitHub](https://github.com/DeveshShukla23/BMW_Global_Sales_Analysis)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 KAUTILYA — AI Data Analysis Agent
-> **Python | Groq LLaMA3 | Agentic AI | Voice Enabled**
+### 🤖 KAUTILYA — Agentic AI Data Analyst
+> **Python • Groq LLaMA3 • Agentic AI • Voice Enabled**
 
-AI-powered Data Analysis Agent that autonomously analyzes any CSV/Excel dataset.
+AI agent that autonomously analyzes any CSV/Excel dataset — in Hindi & English.
 
 **Highlights:**
-- 🧠 Groq LLaMA3 — Transformer based Agentic AI
+- 🧠 Groq LLaMA3 — Transformer Agentic AI
 - 🎤 Voice Input & Output — Hindi & English
 - 📊 Auto Visualizations — 4 chart types
-- 🔐 Secure API key management (.env)
-- 💡 Autonomous business insights generation
+- 💡 Autonomous business insights
 
 `Python` `Groq` `Streamlit` `SpeechRecognition` `gTTS`
 
-[🚀 Live App](https://kautilya-ai-data-analysis-agent-9ykvqyhu94wxhff5eshcck.streamlit.app/) | [GitHub](https://github.com/DeveshShukla23/KAUTILYA-AI-Data-Analysis-Agent)
+[🚀 Live App](https://kautilya-ai-data-analysis-agent-9ykvqyhu94wxhff5eshcck.streamlit.app/) &nbsp;|&nbsp; [📂 GitHub](https://github.com/DeveshShukla23/KAUTILYA-AI-Data-Analysis-Agent)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 BCG X — PowerCo Churn Prediction
-> **Python | Scikit-Learn | Random Forest | Forage**
+### 🍕 NLP Sentiment Analysis — Food Delivery
+> **Python • NLP • Machine Learning • Deep Learning**
 
-Real-world Data Science simulation for BCG X via Forage — challenged the price sensitivity hypothesis using ML.
+1,459 real reviews from Zomato, Swiggy & Blinkit — 7 models tested.
 
 **Highlights:**
-- 👥 14,606 customers | 9.7% churn rate analyzed
-- 📊 EDA + Feature Engineering pipeline
-- 🤖 Random Forest — ROC-AUC: 0.71
-- 💡 Proved price is NOT the primary churn driver
-- ✅ Certificate issued — BCG X x Forage
+- 🤖 5 ML + 2 Deep Learning models
+- 🏆 Random Forest — 91.10% Accuracy
+- 🌐 Live Streamlit App deployed
+- 💡 Actionable business insights
 
-`Python` `Pandas` `Scikit-Learn` `Matplotlib` `Seaborn`
+`Python` `NLTK` `TensorFlow` `Streamlit` `VADER`
 
-[GitHub](https://github.com/DeveshShukla23/BCG-Data-Science-Job-Simulation)
+[🚀 Live App](https://indian-food-delivery-sentiment-analysis-lug5wqpmv42siqiu2aisxa.streamlit.app/) &nbsp;|&nbsp; [📂 GitHub](https://github.com/DeveshShukla23/Indian-Food-Delivery-Sentiment-Analysis)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce SQL Analysis
-> **MySQL | Data Analysis | Business Queries**
+### 🔍 BCG X — PowerCo Churn Prediction
+> **Python • Scikit-Learn • Random Forest • Forage**
 
-Built a complete e-commerce database from scratch and extracted actionable business insights.
+Real-world BCG X simulation — challenged the price sensitivity hypothesis with ML.
 
 **Highlights:**
-- 🗄️ Designed full database schema from scratch
-- 📥 Synthetic data for complete originality
-- ❓ Solved 7 real-world business queries
-- 💡 Delivered actionable business insights
-- 📋 JOINs | CTEs | Window Functions | CASE WHEN
+- 👥 14,606 customers | 9.7% churn rate
+- 🤖 Random Forest — ROC-AUC: 0.71
+- 💡 Proved price ≠ primary churn driver
+- ✅ Certificate — BCG X x Forage
 
-`MySQL` `MySQL Workbench` `SQL` `Data Analysis`
+`Python` `Pandas` `Scikit-Learn` `Matplotlib` `Seaborn`
 
-[GitHub](https://github.com/DeveshShukla23/Ecommerce-SQL-Analysis)
+[📂 GitHub](https://github.com/DeveshShukla23/BCG-Data-Science-Job-Simulation)
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Dynamic Pricing Model
-> **Python | Machine Learning | Predictive Analytics**
+### 📊 Quantium Data Analytics Simulation
+> **Python • SciPy • Pandas • Forage**
 
-Compared 3 ML models for dynamic pricing using a self-created synthetic dataset.
+Real retail analytics — 245K+ transactions, uplift testing.
 
 **Highlights:**
-- 🤖 Linear Regression, Decision Tree, Random Forest
-- 🏆 Random Forest — R²: 0.97
-- 📉 Residual visualization & error analysis
-- 📊 Feature importance analysis
-- 💼 Business insights & recommendations
+- 🛍️ 245K+ transactions | 71K customers | $1.8M revenue
+- 📊 Customer segmentation & uplift testing
+- 🔬 Pearson Correlation for control store matching
+- ✅ Certificate — Quantium x Forage
 
-`Python` `Scikit-Learn` `Matplotlib` `Pandas` `ML`
+`Python` `Pandas` `SciPy` `Matplotlib` `Seaborn`
 
-[GitHub](https://github.com/DeveshShukla23/Dynamic-Pricing-Model)
+[📂 GitHub](https://github.com/DeveshShukla23/Quantium-Data-Analytics-Simulation)
 
 </td>
 </tr>
@@ -183,72 +195,69 @@ Compared 3 ML models for dynamic pricing using a self-created synthetic dataset.
 <td width="50%" valign="top">
 
 ### 📦 Blinkit Sales Dashboard
-> **Power BI | Business Intelligence | Data Visualization**
+> **Power BI • DAX • Business Intelligence**
 
-End-to-end interactive sales dashboard analyzing **$1.2M+ in sales** across 10 outlets.
+$1.2M+ in sales across 10 outlets — interactive Power BI dashboard.
 
 **Highlights:**
-- 📊 KPIs — Total Sales, Avg Sales, Items & Ratings
+- 📊 KPIs — Sales, Avg Sales, Items & Ratings
 - 🗺️ Sales by Outlet Location (Tier 1/2/3)
-- 📈 Sales trend analysis (2012–2022)
-- 🏆 Top performing item categories
+- 📈 Trend analysis 2012–2022
 - 🔄 Interactive slicers & DAX measures
 
 `Power BI` `DAX` `Data Visualization` `Business Intelligence`
 
-[GitHub](https://github.com/DeveshShukla23/Blinkit-Sales-Dashboard)
+[📂 GitHub](https://github.com/DeveshShukla23/Blinkit-Sales-Dashboard)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Quantium Data Analytics Simulation
-> **Python | SciPy | Pandas | Forage**
+### 💰 Dynamic Pricing Model
+> **Python • Machine Learning • Predictive Analytics**
 
-Real-world retail analytics simulation for Quantium via Forage.
+3 ML models compared on a self-created synthetic pricing dataset.
 
 **Highlights:**
-- 🛍️ 245K+ transactions | 71K customers | $1.8M revenue
-- 📊 Customer segmentation & uplift testing
-- 🔬 Pearson Correlation for control store matching
-- ✅ Certificate issued — Quantium x Forage
+- 🤖 Linear Regression, Decision Tree, Random Forest
+- 🏆 Random Forest — R²: 0.97
+- 📉 Residual & error analysis
+- 📊 Feature importance breakdown
 
-`Python` `Pandas` `SciPy` `Matplotlib` `Seaborn`
+`Python` `Scikit-Learn` `Matplotlib` `Pandas`
 
-[GitHub](https://github.com/DeveshShukla23/Quantium-Data-Analytics-Simulation)
+[📂 GitHub](https://github.com/DeveshShukla23/Dynamic-Pricing-Model)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 BMW Global Sales Intelligence
-> **Excel | MySQL | Python | Power BI | K-Means | Forecasting**
+### 🛒 E-Commerce SQL Analysis
+> **MySQL • Data Analysis • Business Queries**
 
-End-to-end **4-phase** analytics project on 4,569 rows of real-world BMW global sales data — from corrupted Excel to boardroom-ready dashboard.
+Full e-commerce database built from scratch — 7 real-world business queries solved.
 
 **Highlights:**
-- 📋 Excel — Audited 29 columns, flagged 800+ bad records before cleaning
-- 🗄️ MySQL — 8 business queries, CTEs + Window Functions
-- 🐍 Python — 13 BMW M5 Black visuals, K-Means (K=4 segments), 2025 forecast (€193.5M)
-- 📊 Power BI — 4-page BMW M5 Black dashboard, 13 DAX measures
-- 💡 USA leads revenue (€195.6M) but lowest margin — India biggest untapped market
+- 🗄️ Designed full schema from scratch
+- ❓ 7 business queries answered
+- 📋 JOINs | CTEs | Window Functions | CASE WHEN
 
-`Python` `MySQL` `Power BI` `DAX` `Scikit-learn` `Plotly` `Excel`
+`MySQL` `MySQL Workbench` `SQL` `Data Analysis`
 
-[GitHub](https://github.com/DeveshShukla23/BMW_Global_Sales_Analysis)
+[📂 GitHub](https://github.com/DeveshShukla23/Ecommerce-SQL-Analysis)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔜 More Projects Coming Soon...
-> Always building, always learning!
+### 🔜 More Coming Soon...
+> Always building. Always learning.
 
 Currently working on:
 - 📊 HR Analytics Dashboard (Power BI)
-- 🐍 Python EDA Projects
-- 📉 Tableau Dashboards
+- 🐍 Advanced Python EDA Projects
+- 📉 Tableau Story Dashboards
 
-**Watch this space! ⭐**
+**⭐ Watch this space!**
 
 </td>
 </tr>
@@ -256,46 +265,27 @@ Currently working on:
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Contributions](https://img.shields.io/badge/Total%20Contributions-106-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-10+-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-1%20Year-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-9-a78bfa?style=for-the-badge&logo=github&logoColor=white)
 
-### 📈 Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
 
-### 🤖 Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3%2070B-00A67E?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🗄️ Tools & Platforms
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-Intermediate-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
-
----
 
 ## 🏆 Certifications
 
 <div align="center">
-
-### ⭐ Top Certifications
 
 | 🥇 | Certification | Institution | Year |
 |:---:|:---|:---|:---:|
@@ -308,7 +298,7 @@ Currently working on:
 </div>
 
 <details>
-<summary><b>📋 View All 14 Certifications (Click to Expand)</b></summary>
+<summary><b>📋 View All 14 Certifications</b></summary>
 <br>
 
 | # | 🏆 Certification | 🏫 Institution | 📅 Year | 🏷️ Category |
@@ -332,40 +322,32 @@ Currently working on:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeveshShukla23&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=a0aec0&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshShukla23&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshShukla23&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=a0aec0&bg_color=0D1117" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-### 🟢 Currently Open to Data Analyst | Data Scientist Opportunities!
+### 🟢 Open to Data Analyst | Data Scientist Opportunities!
 
-*6 months internship | 14 certifications | 8 projects | 3 live apps | CHANAKYA — 12-layer AI platform*
+**6 months internship &nbsp;•&nbsp; 14 certifications &nbsp;•&nbsp; 9 projects &nbsp;•&nbsp; 3 live apps**
 
-*If you're hiring or know someone who is — let's talk!*
+*"Most people analyse clean data. I started with the mess — because that's what real analyst jobs look like."*
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh_Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-shukla23)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-DeveshShukla23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveshShukla23)
-[![Email](https://img.shields.io/badge/Email-Reach_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukladevesh40@gmail.com)
-[![CHANAKYA](https://img.shields.io/badge/🚀%20CHANAKYA-Live%20App-6366F1?style=for-the-badge)](https://chanakya-ai.streamlit.app)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-8b0000?style=for-the-badge)](https://deveshshukla23.github.io)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukladevesh40@gmail.com)
+&nbsp;
+[![CHANAKYA](https://img.shields.io/badge/🏛️_CHANAKYA-Live_App-7c3aed?style=for-the-badge)](https://chanakya-ai.streamlit.app)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-a78bfa?style=for-the-badge)](https://deveshshukla23.github.io)
+
 <br>
 
-⭐ **If you find my work useful, consider giving my repos a star!** ⭐
+⭐ **If my work adds value — drop a star on my repos!** ⭐
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0a0a0a&height=120&section=footer&animation=fadeIn)
 
 </div>
