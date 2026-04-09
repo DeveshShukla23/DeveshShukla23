@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0533,100:2d1b69&height=250&section=header&text=DEVESH%20SHUKLA&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=18&descColor=a78bfa&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=🚀+Turning+Raw+Data+into+Real+Business+Decisions;🏛️+Built+CHANAKYA+—+12-Layer+AI+Intelligence+Platform;🚗+BMW+€785M+Revenue+Story+—+4+Tools%2C+4+Phases%2C+Zero+Shortcuts;🤖+Agentic+AI+%7C+LLaMA+3.3+70B+%7C+Groq+API)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=🚀+Turning+Raw+Data+into+Real+Business+Decisions;🏛️+Built+CHANAKYA+—+12-Layer+AI+Intelligence+Platform;🚗+BMW+€785M+Revenue+Story+—+4+Tools%2C+4+Phases%2C+Zero+Shortcuts;🤖+Agentic+AI+%7C+LLaMA+3.3+70B+%7C+Groq+API;🏥+MedSathi+—+AI+Health+Assistant+%7C+Google+Gemma+3+%7C+Hackathon)
 
 <br>
 
@@ -247,6 +247,27 @@ Full e-commerce database built from scratch — 7 real-world business queries so
 [📂 GitHub](https://github.com/DeveshShukla23/Ecommerce-SQL-Analysis)
 
 </td>
+<td width="50%" valign="top">
+
+### 🏥 MedSathi — AI Health Assistant
+> **Python • Google Gemma 3 • Streamlit • Google AI Studio**
+
+Built for the **Gemma Impact Hackathon 2025** — an AI health companion for 700M+ rural Indians who lack access to doctors.
+
+**What's inside:**
+- 🤖 Google Gemma 3 (`gemma-3-4b-it`) — Core AI engine
+- 🌐 Bilingual — Hindi & English support
+- 🚨 Emergency Detection — Auto-alerts with 108/104 helplines
+- 💊 6 Quick Symptom Buttons — Accessible for elders
+- 🎨 Dark medical green theme — Streamlit Cloud deployed
+
+`Python` `Google Gemma 3` `Google AI Studio` `Streamlit` `CSS`
+
+[🚀 Live App](https://medsathi.streamlit.app) &nbsp;|&nbsp; [📂 GitHub](https://github.com/DeveshShukla23/MedSathi)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔜 More Coming Soon...
