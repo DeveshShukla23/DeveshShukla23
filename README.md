@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0533,100:2d1b69&height=250&section=header&text=DEVESH%20SHUKLA&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=18&descColor=a78bfa&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=🚀+Turning+Raw+Data+into+Real+Business+Decisions;🏛️+Built+CHANAKYA+—+12-Layer+AI+Intelligence+Platform;🚗+BMW+€785M+Revenue+Story+—+4+Tools%2C+4+Phases%2C+Zero+Shortcuts;🤖+Agentic+AI+%7C+LLaMA+3.3+70B+%7C+Groq+API;🏥+MedSathi+—+AI+Health+Assistant+%7C+Google+Gemma+3+%7C+Hackathon)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=🚀+Turning+Raw+Data+into+Real+Business+Decisions;🏛️+Built+CHANAKYA+—+12-Layer+AI+Intelligence+Platform;🚗+BMW+€785M+Revenue+Story+—+4+Tools%2C+4+Phases%2C+Zero+Shortcuts;🔍+TRACE+—+AI+Root+Cause+Analyzer+%7C+9+Methods+%7C+LLaMA+3.3+70B;🤖+Agentic+AI+%7C+LLaMA+3.3+70B+%7C+Groq+API;🏥+MedSathi+—+AI+Health+Assistant+%7C+Google+Gemma+3+%7C+Hackathon)
 
 <br>
 
@@ -13,6 +13,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://deveshshukla23.github.io)
 &nbsp;
 [![CHANAKYA](https://img.shields.io/badge/🏛️_CHANAKYA-Live_App-a78bfa?style=for-the-badge)](https://chanakya-ai.streamlit.app)
+&nbsp;
+[![TRACE](https://img.shields.io/badge/🔍_TRACE-Live_App-FF0000?style=for-the-badge)](https://trace-analyzer.streamlit.app)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Hire_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukladevesh40@gmail.com)
 
@@ -31,7 +33,7 @@ devesh = {
   "experience" : "Data Analyst Intern @ Access Million ✅",
   "duration"   : "6 Months | Aug 2025 – Feb 2026",
   "certs"      : "14 Certifications in DS, Analytics & AI 🏆",
-  "roles"      : ["Data Analyst", "Data Scientist"],
+  "roles"      : ["Data Analyst", "Data Scientist", "AI/GenAI Developer"],
   "tools"      : {
     "languages" : ["Python", "SQL", "R"],
     "bi"        : ["Power BI", "Tableau", "Excel"],
@@ -40,6 +42,7 @@ devesh = {
     "databases" : ["MySQL", "MySQL Workbench"]
   },
   "capstone"   : "CHANAKYA — 12-Layer AI Commerce Platform 🏛️",
+  "latest"     : "TRACE — AI Root Cause Analyzer 🔍",
   "philosophy" : "Data is not numbers. It is the story of your business.",
   "status"     : "🟢 Actively seeking opportunities"
 }
@@ -96,6 +99,29 @@ My **flagship capstone** — a 12-layer end-to-end Data Science platform built o
 </td>
 <td width="50%" valign="top">
 
+### 🔍 TRACE — AI Root Cause Analyzer
+> **Trend Recognition and Automated Cause Explanation**
+> **Python • Streamlit • Groq LLaMA 3.3 70B • Scikit-learn • Plotly**
+
+Upload any business CSV or Excel file — TRACE automatically detects anomalies, traces root causes via correlation analysis, and generates plain English diagnostic reports. Any domain. Under 2 minutes.
+
+**What's inside:**
+- 🔬 9 Anomaly Detection Methods — Z-Score, IQR, Isolation Forest, Level Shift & more
+- 🔗 Correlation Engine — Lag detection, Pareto ranking, contribution %
+- 🤖 LLaMA 3.3 70B — AI-narrated root cause reports via Groq API
+- 📊 Plotly Dark Dashboard — KPI cards, heatmap, anomaly timeline
+- 🏷️ Confidence Tags — `[ VERIFIED ]` `[ CONFIRMED ]` `[ PROBABLE ]`
+- 🌐 Domain Agnostic — Sales, HR, Finance, Logistics, Operations
+
+**Skills:** `Python` `Streamlit` `Pandas` `NumPy` `SciPy` `Scikit-learn` `Plotly` `Groq API` `LLaMA 3.3 70B` `RapidFuzz` `Statistical Analysis` `NLP` `Anomaly Detection` `Correlation Analysis`
+
+[🚀 Live App](https://trace-analyzer.streamlit.app) &nbsp;|&nbsp; [📂 GitHub](https://github.com/DeveshShukla23/TRACE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚗 BMW Global Sales Intelligence
 > **Excel • MySQL • Python • Power BI • K-Means • Forecasting**
 
@@ -114,8 +140,6 @@ Most analysts get clean data. I started with 4,569 rows of corrupted BMW records
 [📂 GitHub](https://github.com/DeveshShukla23/BMW_Global_Sales_Analysis)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤖 KAUTILYA — Agentic AI Data Analyst
@@ -134,6 +158,8 @@ AI agent that autonomously analyzes any CSV/Excel dataset — in Hindi & English
 [🚀 Live App](https://kautilya-ai-data-analysis-agent-9ykvqyhu94wxhff5eshcck.streamlit.app/) &nbsp;|&nbsp; [📂 GitHub](https://github.com/DeveshShukla23/KAUTILYA-AI-Data-Analysis-Agent)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍕 NLP Sentiment Analysis — Food Delivery
@@ -152,8 +178,6 @@ AI agent that autonomously analyzes any CSV/Excel dataset — in Hindi & English
 [🚀 Live App](https://indian-food-delivery-sentiment-analysis-lug5wqpmv42siqiu2aisxa.streamlit.app/) &nbsp;|&nbsp; [📂 GitHub](https://github.com/DeveshShukla23/Indian-Food-Delivery-Sentiment-Analysis)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔍 BCG X — PowerCo Churn Prediction
@@ -172,6 +196,8 @@ Real-world BCG X simulation — challenged the price sensitivity hypothesis with
 [📂 GitHub](https://github.com/DeveshShukla23/BCG-Data-Science-Job-Simulation)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 Quantium Data Analytics Simulation
@@ -190,8 +216,6 @@ Real retail analytics — 245K+ transactions, uplift testing.
 [📂 GitHub](https://github.com/DeveshShukla23/Quantium-Data-Analytics-Simulation)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📦 Blinkit Sales Dashboard
@@ -210,6 +234,8 @@ $1.2M+ in sales across 10 outlets — interactive Power BI dashboard.
 [📂 GitHub](https://github.com/DeveshShukla23/Blinkit-Sales-Dashboard)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💰 Dynamic Pricing Model
@@ -228,8 +254,6 @@ $1.2M+ in sales across 10 outlets — interactive Power BI dashboard.
 [📂 GitHub](https://github.com/DeveshShukla23/Dynamic-Pricing-Model)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 E-Commerce SQL Analysis
@@ -247,6 +271,8 @@ Full e-commerce database built from scratch — 7 real-world business queries so
 [📂 GitHub](https://github.com/DeveshShukla23/Ecommerce-SQL-Analysis)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 MedSathi — AI Health Assistant
@@ -266,17 +292,15 @@ Built for the **Gemma Impact Hackathon 2025** — an AI health companion for 700
 [🚀 Live App](https://medsathi.streamlit.app) &nbsp;|&nbsp; [📂 GitHub](https://github.com/DeveshShukla23/MedSathi)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔜 More Coming Soon...
 > Always building. Always learning.
 
 Currently working on:
+- 🧠 ANTARVANI — AI Emotional Support App
 - 📊 HR Analytics Dashboard (Power BI)
-- 🐍 Advanced Python EDA Projects
-- 📉 Tableau Story Dashboards
+- 🌍 ATLAS — Conflict-Driven Commodity Dashboard
 
 **⭐ Watch this space!**
 
@@ -291,9 +315,10 @@ Currently working on:
 <div align="center">
 
 ![Contributions](https://img.shields.io/badge/Total%20Contributions-106-7c3aed?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Repositories-10+-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-11+-a78bfa?style=for-the-badge&logo=github&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-1%20Year-7c3aed?style=for-the-badge&logo=github&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-9-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-10-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![Live Apps](https://img.shields.io/badge/Live_Apps-5-FF0000?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <br>
 
@@ -301,6 +326,7 @@ Currently working on:
 ![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Intermediate-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-Intermediate-FF0000?style=for-the-badge&logo=meta&logoColor=white)
 
 </div>
 
@@ -347,9 +373,9 @@ Currently working on:
 
 <div align="center">
 
-### 🟢 Open to Data Analyst | Data Scientist Opportunities!
+### 🟢 Open to Data Analyst | Data Scientist | AI/GenAI Developer Opportunities!
 
-**6 months internship &nbsp;•&nbsp; 14 certifications &nbsp;•&nbsp; 9 projects &nbsp;•&nbsp; 3 live apps**
+**6 months internship &nbsp;•&nbsp; 14 certifications &nbsp;•&nbsp; 10 projects &nbsp;•&nbsp; 5 live apps**
 
 *"Most people analyse clean data. I started with the mess — because that's what real analyst jobs look like."*
 
@@ -362,6 +388,8 @@ Currently working on:
 [![Email](https://img.shields.io/badge/Email-Reach_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukladevesh40@gmail.com)
 &nbsp;
 [![CHANAKYA](https://img.shields.io/badge/🏛️_CHANAKYA-Live_App-7c3aed?style=for-the-badge)](https://chanakya-ai.streamlit.app)
+&nbsp;
+[![TRACE](https://img.shields.io/badge/🔍_TRACE-Live_App-FF0000?style=for-the-badge)](https://trace-analyzer.streamlit.app)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-a78bfa?style=for-the-badge)](https://deveshshukla23.github.io)
 
